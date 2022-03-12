@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "npx nodemon src/index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "socket.io": "3.0"
+  }
+}

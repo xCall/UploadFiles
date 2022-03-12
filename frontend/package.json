@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "npx http-server --cors public"
+  },
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
